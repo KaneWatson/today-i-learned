@@ -24,4 +24,4 @@ yarn-error.log*
 
 .env
 
-/v1/script.js
+/v1
